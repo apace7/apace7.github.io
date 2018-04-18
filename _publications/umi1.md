@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/umi1
 excerpt: 'test.'
 date: 2014-05-08
-venue: 'Journal 1'
+venue: 'MNRAS'
 paperurl: ''
-citation: 'Pace, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Pace A. B., Martinez G. D., Kaplinghat M., Muñoz R. R., 2014, MNRAS, 442, 1718'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
