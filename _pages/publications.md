@@ -12,6 +12,9 @@ Refereed Journal Publications
 
 1. Fillingham, Sean P., Cooper, Michael C., **Pace, Andrew B.**, Boylan-Kolchin, Michael, Bullock, James S., Garrison-Kimmel, Shea, Wheeler, Coral, 2016, MNRAS, 463, 1916; *Under pressure: quenching star formation in low-mass satellite galaxies via stripping* [ADS](http://adsabs.harvard.edu/abs/2016MNRAS.463.1916F)
 
+1. T.S. Li, J.D. Simon, **A.B. Pace**, et al. 2018, APJ, 857, 145;
+*Ships Passing in the Night: Spectroscopic Analysis of Two Ultra-Faint Satellites in the Constellation Carina* [ADS](http://adsabs.harvard.edu/abs/2018ApJ...857..145L)
+
 
 For the full list of academic publications, see my [CV](link) and [publication](link) list or check out my [ADS](link), [Spires](link), [Google Scholar](link) profile.
 
@@ -20,7 +23,8 @@ For the full list of academic publications, see my [CV](link) and [publication](
 Submitted
 ------
 
-1.
+1. **A.B. Pace**, L.E. Strigari, 2018;
+*Scaling Relations for Dark Matter Annihilation and Decay Profiles in Dwarf Spheroidal Galaxies* [ADS](http://adsabs.harvard.edu/abs/2018arXiv180206811P)
 
 
 
