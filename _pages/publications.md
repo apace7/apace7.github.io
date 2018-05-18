@@ -18,7 +18,7 @@ Refereed Journal Publications
 *Ships Passing in the Night: Spectroscopic Analysis of Two Ultra-Faint Satellites in the Constellation Carina* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018ApJ...857..145L) </span>
 
 
-#<span style="color:blue"> [ADS]() </span>
+#[]( <span style="color:blue"> [ADS]() </span> )
 
 For the full list of academic publications, see my [CV](link) and [publication](link) list or check out my [ADS](link), [Spires](link), [Google Scholar](link) profile.
 
