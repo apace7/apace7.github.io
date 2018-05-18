@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Andrew B. Pace"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoc at Texas A&M University. Astronomer and physicist. Member of DES."
   location         : "College Station, TX, US"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
