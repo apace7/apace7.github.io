@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, University of California, Irvine, 2010
-* Ph.D in Physics, University of California, Irvine, 2016
+* B.S. in Physics, University of California-Irvine, 2010
+* Ph.D in Physics, University of California-Irvine, 2016
 
 Work experience
 ======
