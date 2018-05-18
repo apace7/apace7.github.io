@@ -14,8 +14,11 @@ Refereed Journal Publications
 
 1. A. Kamada, M. Kaplinghat, **A.B. Pace**, H. Yu, 2017, PRL, 119, 111102; *Self-Interacting Dark Matter Can Explain Diverse Galactic Rotation Curves* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2017PhRvL.119k1102K) </span>
 
+1. T.S. Li et al. including **ABP** 2017, APJ, 838, 8; *Farthest Neighbor: The Distant Milky Way Satellite Eridanus II* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2017ApJ...838....8L) </span>
+
 1. T.S. Li, J.D. Simon, **A.B. Pace**, et al. 2018, APJ, 857, 145;
 *Ships Passing in the Night: Spectroscopic Analysis of Two Ultra-Faint Satellites in the Constellation Carina* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018ApJ...857..145L) </span>
+
 
 
 []( <span style="color:blue"> [ADS]() </span> )
@@ -28,7 +31,7 @@ Submitted
 ------
 
 1. **A.B. Pace**, L.E. Strigari, 2018;
-*Scaling Relations for Dark Matter Annihilation and Decay Profiles in Dwarf Spheroidal Galaxies* [ADS](http://adsabs.harvard.edu/abs/2018arXiv180206811P)
+*Scaling Relations for Dark Matter Annihilation and Decay Profiles in Dwarf Spheroidal Galaxies* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180206811P) </span> 
 
 
 
