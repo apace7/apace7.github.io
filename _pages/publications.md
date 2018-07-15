@@ -8,15 +8,19 @@ author_profile: true
 Refereed Journal Publications
 ------
 
-1. **Pace, Andrew B.**, Martinez, G. D., Kaplinghat, M., Muñoz, R. R., 2014, MNRAS, 442, 1718; *Evidence for substructure in Ursa Minor dwarf spheroidal galaxy using a Bayesian object detection method* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2014MNRAS.442.1718P) </span>
+1. **Andrew B. Pace, Andrew B.**, Martinez, G. D., Kaplinghat, M., Muñoz, R. R., 2014, MNRAS, 442, 1718; *Evidence for substructure in Ursa Minor dwarf spheroidal galaxy using a Bayesian object detection method* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2014MNRAS.442.1718P) </span>
 
-1. Fillingham, Sean P., Cooper, Michael C., **Pace, Andrew B.**, Boylan-Kolchin, Michael, Bullock, James S., Garrison-Kimmel, Shea, Wheeler, Coral, 2016, MNRAS, 463, 1916; *Under pressure: quenching star formation in low-mass satellite galaxies via stripping* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2016MNRAS.463.1916F) </span>
+1. Sean P. Fillingham, Michael C. Cooper, **Andrew B. Pace** et al. 2016, MNRAS, 463, 1916; *Under pressure: quenching star formation in low-mass satellite galaxies via stripping* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2016MNRAS.463.1916F) </span>
 
-1. A. Kamada, M. Kaplinghat, **A.B. Pace**, H. Yu, 2017, PRL, 119, 111102; *Self-Interacting Dark Matter Can Explain Diverse Galactic Rotation Curves* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2017PhRvL.119k1102K) </span>
+1.  Coral Wheeler, **Andrew B. Pace**, et al, 2017, MNRAS, 465, 420; *The no-spin zone: rotation versus dispersion support in observed and simulated dwarf galaxies* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2017MNRAS.465.2420W) </span>
 
-1. T.S. Li et al. including **ABP** 2017, APJ, 838, 8; *Farthest Neighbor: The Distant Milky Way Satellite Eridanus II* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2017ApJ...838....8L) </span>
+1. A. Kamada, M. Kaplinghat, **Andrew B. Pace**, H. Yu, 2017, PRL, 119, 111102; *Self-Interacting Dark Matter Can Explain Diverse Galactic Rotation Curves* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2017PhRvL.119k1102K) </span>
 
-1. T.S. Li, J.D. Simon, **A.B. Pace**, et al. 2018, APJ, 857, 145;
+1. T.S. Li et al. including **Andrew B. Pace** 2017, APJ, 838, 8; *Farthest Neighbor: The Distant Milky Way Satellite Eridanus II* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2017ApJ...838....8L) </span>
+
+1. Elmer Luque et al. including **Andrew B. Pace** 2018, MNRAS, 478, 2006; *Deep SOAR follow-up photometry of two Milky Way outer-halo companions discovered with Dark Energy Survey* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018MNRAS.478.2006L) </span>
+
+1. T.S. Li, J.D. Simon, **Andrew B. Pace**, et al. 2018, APJ, 857, 145;
 *Ships Passing in the Night: Spectroscopic Analysis of Two Ultra-Faint Satellites in the Constellation Carina* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018ApJ...857..145L) </span>
 
 
@@ -30,8 +34,10 @@ For the full list of academic publications, see my [CV](link) and [publication](
 Submitted
 ------
 
-1. **A.B. Pace**, L.E. Strigari, 2018;
+1. **Andrew B. Pace**, Louis E. Strigari, 2018;
 *Scaling Relations for Dark Matter Annihilation and Decay Profiles in Dwarf Spheroidal Galaxies* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180206811P) </span> 
+
+1. **Andrew B. Pace **, Ting S. Li, 2018 *Proper motions of Milky Way Ultra-Faint satellites with Gaia DR2 x DES DR1* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180602345P) </span> 
 
 
 
