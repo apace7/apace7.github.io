@@ -17,16 +17,14 @@ Education
 Work experience
 ======
 * Mitchell Fellow (2018 - Present)
-* Postdoc (offical title, 2016 - Present)
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Researcher (2016 - Present)
+  * Texas A&M University
+* Graduate Research Assistant (2016-2011)
+  * University of California-Irvine
+  * Worked with Manoj Kaplinghat and James Bullock
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant
+  * University of California-Irvine
 
 Skills
 ======
@@ -58,3 +56,4 @@ Teaching
 Service and leadership
 ======
 * DES ECS rep
+* Physics Graduate C
