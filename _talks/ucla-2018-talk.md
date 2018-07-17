@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2012-03-01-talk-1
 venue: "University of California-Los Angeles"
-date: April 2018
+date: April 3 2018
 location: "Los Angeles, California"
 ---
 
