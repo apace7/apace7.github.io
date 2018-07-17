@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Postdoc at Texas A&M University interested in Local Group dwarf galaxies, galaxy kinematics, and dark matter.
+I am a member of the Milky Way working group in the Dark Energy Survey. 
 
 
 
