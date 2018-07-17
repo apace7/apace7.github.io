@@ -12,18 +12,20 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, University of California-Irvine, 2010
-* Ph.D in Physics, University of California-Irvine, 2016
+  * Specialization in Astrophysics
+* Ph.D in Physics & Astronomy, University of California-Irvine, 2016
+  * Advisor: Manoj Kaplinghat
 
 Work experience
 ======
-* Mitchell Fellow (2018 - Present)
+* Mitchell Astronomy Fellow (2018 - Present)
 * Postdoctoral Researcher (2016 - Present)
   * Texas A&M University
-* Graduate Research Assistant (2016-2011)
+* Graduate Research Assistant (2011-2016)
   * University of California-Irvine
-  * Worked with Manoj Kaplinghat and James Bullock
-
-* Teaching Assistant (2012 - 2015)
+* Teaching Assistant (2011 - 2015)
+  * University of California-Irvine
+* Undergraduate Research Assistant (2009-2011)
   * University of California-Irvine
 
 Publications
@@ -47,5 +49,29 @@ Teaching
 Service and leadership
 ======
 * DES ECS rep (2018-)
-* Physics Graduate Causus Representative (2013-2016)
-* Journal Referee -- MNRAS
+  * Early career representative for Dark Energy Suvery Collaboration
+* Journal Referee
+  * Monthly Notices of the Royal Astronomical Society
+* co-organizer for the TAMU Astrophysics Seminars (Fall 2017-)
+* Local organizing committee
+  * Dark Energy Survey Collaboration meeting, College Station, TX, May 2018
+* Associated Graduate Students (UCI, 2015-2016)
+  * Council member, internal committee, and symposium committee
+* Physics Graduate Causus Representative (UCI, 2012-2016)
+  * physics graduate student advocacy organization
+  
+Outreach
+======
+* UCI Observatory (2011-2012)
+  * Assisted with public visitor nights
+* COSMOS (2014-2015)
+  * Science summer school for high school students
+* Astronomy on Tap Bryan/College Station (2018-)
+  * Assist with organizing, gave talk August 2018
+
+Awards
+======
+* GAANN Fellowship (2015–2016)
+* AGS Travel Grant (Spring 2015)
+* Mitchell Astronomy Fellow (2018 - present)
+
