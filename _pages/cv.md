@@ -23,17 +23,8 @@ Work experience
   * University of California-Irvine
   * Worked with Manoj Kaplinghat and James Bullock
 
-* Teaching Assistant
+* Teaching Assistant (2012 - 2015)
   * University of California-Irvine
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -55,5 +46,6 @@ Teaching
 
 Service and leadership
 ======
-* DES ECS rep
-* Physics Graduate C
+* DES ECS rep (2018-)
+* Physics Graduate Causus Representative (2013-2016)
+* Journal Referee -- MNRAS
