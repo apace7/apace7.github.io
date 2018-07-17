@@ -27,9 +27,6 @@ Refereed Journal Publications
 
 
 
-<> []( <span style="color:blue"> [ADS]() </span> )
-
-<> For the full list of academic publications, see my [CV](link) and [publication](link) list or check out my [ADS](link), [Spires](link), [Google Scholar](link) profile.
 
 
 
