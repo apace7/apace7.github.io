@@ -75,3 +75,8 @@ Awards
 * AGS Travel Grant (Spring 2015)
 * Mitchell Astronomy Fellow (2018 - present)
 
+Students Mentored
+======
+* Graduate students (at Texas A&M): Dan Nagasawa, Peter Chi, Katelyn Stringer, Sarah Cantu, Peter Ferguson, Alex Riley
+* Undergraduate students (at Texas A&M): Liam Plybon, John Maner, Jenny Quinn
+* REU students (at Texas A&M): Craig Pellegrino, Niyousha Davachi, Jessica Myron, Kelsey Glazer, Silvana Delgado 
