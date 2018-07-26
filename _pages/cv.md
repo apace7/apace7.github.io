@@ -48,11 +48,11 @@ Teaching
 
 Service and leadership
 ======
-* DES ECS rep (2018-)
+* DES ECS rep (2018 - Present)
   * Early career representative for Dark Energy Suvery Collaboration
 * Journal Referee
   * Monthly Notices of the Royal Astronomical Society
-* co-organizer for the TAMU Astrophysics Seminars (Fall 2017-)
+* co-organizer for the TAMU Astrophysics Seminars (Fall 2017 - Present)
 * Local organizing committee
   * Dark Energy Survey Collaboration meeting, College Station, TX, May 2018
 * Associated Graduate Students (UCI, 2015-2016)
