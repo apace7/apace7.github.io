@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Mitchell Astronomy Fellow (2018 - Present)
-* Postdoctoral Researcher (2016 - Present)
+* Postdoctoral Research Associate (2016 - Present)
   * Texas A&M University
 * Graduate Research Assistant (2011-2016)
   * University of California-Irvine
