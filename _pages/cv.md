@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+contact: apace [at] tamu.edu
 
 Education
 ======
