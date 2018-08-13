@@ -31,15 +31,11 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<span style="color:blue"> [see publications page](https://apace7.github.io/publications/) </span>
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<span style="color:blue"> [see talks page](https://apace7.github.io/talks/) </span>
 
 Service and leadership
 ======
