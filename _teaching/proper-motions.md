@@ -6,15 +6,10 @@ permalink: /projects/proper-motions
 
 Proper motion Paper.
 
-Heading 1
+Proper Motion Paper.
 ======
 
 https://github.com/apace7/gaia_cross_des_proper_motions
 
 https://arxiv.org/abs/1806.02345
 
-Heading 2
-======
-
-Heading 3
-======
