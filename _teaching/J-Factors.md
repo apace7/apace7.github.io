@@ -5,10 +5,14 @@ type: "Project"
 permalink: /projects/J-Factors
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Dark Matter indirect detection.  J-Factors.
 
-Heading 1
+J-Factor Scaling Relations
 ======
+
+http://adsabs.harvard.edu/abs/2018arXiv180206811P
+
+https://github.com/apace7/J-Factor-Scaling
 
 Heading 2
 ======
