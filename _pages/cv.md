@@ -68,6 +68,6 @@ Awards
 
 Students Mentored
 ======
-* Graduate students (at Texas A&M): Dan Nagasawa, Peter Chi, Katelyn Stringer, Sarah Cantu, Peter Ferguson, Alex Riley
+* Graduate students (at Texas A&M): Dan Nagasawa, Peter Chi, Katelyn Stringer, Sarah Cantu, Peter Ferguson, Alex Riley, Yuewen (Claire) Qi
 * Undergraduate students (at Texas A&M): Liam Plybon, John Maner, Jenny Quinn
 * REU students (at Texas A&M): Craig Pellegrino, Niyousha Davachi, Jessica Myron, Kelsey Glazer, Silvana Delgado 
