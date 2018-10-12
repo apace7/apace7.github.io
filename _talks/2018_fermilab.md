@@ -3,7 +3,7 @@ title: "Dwarf Galaxies in the Southern Sky: Dark Matter Annihilation and the Con
 collection: talks
 type: "Talk"
 permalink: /talks/2018_fermilab
-venue: "University of California-Riverside Seminar"
+venue: "Fermilab"
 date: 2018-10-08
 location: "Batavia, Il"
 ---
