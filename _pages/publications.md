@@ -22,13 +22,11 @@ Refereed Journal Publications
 
 1. Dan Q. Nagasawa et al. including **Andrew B. Pace** 2018, 852, 99; *Chemical Abundance Analysis of Three α -poor, Metal-poor Stars in the Ultrafaint Dwarf Galaxy Horologium I* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018ApJ...852...99N) </span>
 
-1. Ting S. Li, Joshua D. Simon, **Andrew B. Pace**, et al. 2018, APJ, 857, 145;
-*Ships Passing in the Night: Spectroscopic Analysis of Two Ultra-Faint Satellites in the Constellation Carina* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018ApJ...857..145L) </span>
+1. Ting S. Li, Joshua D. Simon, **Andrew B. Pace**, et al. 2018, APJ, 857, 145; *Ships Passing in the Night: Spectroscopic Analysis of Two Ultra-Faint Satellites in the Constellation Carina* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018ApJ...857..145L) </span>
 
+1. N. Shipp et al. including **Andrew B. Pace** 2018, APJ 862, 114; *Stellar Streams Discovered in the Dark Energy Survey* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018ApJ...862..114S) </span> 
 
-
-
-
+1. D. Erkal et al. including **Andrew B. Pace** 2018, MNRAS, 481, 3148; *Modelling the Tucana III stream - a close passage with the LMC* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018MNRAS.481.3148E) </span> 
 
 Submitted
 ------
@@ -37,14 +35,13 @@ Submitted
 
 1. **Andrew B. Pace**, Ting S. Li, 2018; *Proper motions of Milky Way Ultra-Faint satellites with Gaia DR2 x DES DR1* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180602345P) </span> 
 
-1. N. Shipp et al. including **Andrew B. Pace** 2018; *Stellar Streams Discovered in the Dark Energy Survey* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180103097S) </span> 
-
-1. D. Erkal et al. including **Andrew B. Pace** 2018; *Modelling the Tucana III stream - a close passage with the LMC* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180407762E) </span> 
-
 1. DES Collaboration including **Andrew B. Pace** 2018; *The Dark Energy Survey Data Release 1* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180103181A) </span> 
 
-1. T.S. Li et al. including **Andrew B. Pace** 2018; *The First Tidally Disrupted Ultra-Faint Dwarf Galaxy? - Spectroscopic Analysis of the Tucana III Stream* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180407761L) </span> 
+1. T.S. Li et al. including **Andrew B. Pace** 2018; *The First Tidally Disrupted Ultra-Faint Dwarf Galaxy? - Spectroscopic Analysis of the Tucana III Stream* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180407761L) </span>
 
+1. M-Y Wang et al. including **Andrew B. Pace** 2018; *The morphology and structure of stellar populations in the Fornax dwarf spheroidal galaxy from Dark Energy Survey Data* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180907801W) </span>
+
+1. **Andrew B. Pace** 2016; *Comparing rotation curve observations to hydrodynamic {\Lambda}CDM simulations of galaxies* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2016arXiv160505326P) </span> 
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
