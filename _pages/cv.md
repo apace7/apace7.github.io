@@ -48,7 +48,7 @@ Service and leadership
   * Dark Energy Survey Collaboration meeting, College Station, TX, May 2018
 * Associated Graduate Students (UCI, 2015-2016)
   * Council member, internal committee, and symposium committee
-* Physics Graduate Causus Representative (UCI, 2012-2016)
+* Physics Graduate Caucus Representative (UCI, 2012-2016)
   * physics graduate student advocacy organization
   
 Outreach
