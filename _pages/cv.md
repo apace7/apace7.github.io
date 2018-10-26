@@ -40,7 +40,7 @@ Talks
 Service and leadership
 ======
 * DES ECS rep (2018 - Present)
-  * Early career representative for Dark Energy Suvery Collaboration
+  * Early career scientist representative for the Dark Energy Survey Collaboration
 * Journal Referee
   * Monthly Notices of the Royal Astronomical Society
 * co-organizer for the TAMU Astrophysics Seminars (Fall 2017 - Present)
