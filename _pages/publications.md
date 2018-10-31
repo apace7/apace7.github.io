@@ -34,6 +34,8 @@ Refereed Journal Publications
 
 Submitted
 ------
+1. Quinn E. Minor, **Andrew B. Pace**, Jennifer L. Marshall, Louis E. Strigari, 2018; *Robust velocity dispersion and binary population modeling of the ultra-faint dwarf galaxy Reticulum II* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv181012903M) </span> 
+
 1. Alexander H. Riley, Azadeh Fattahi,  **Andrew B. Pace** et al. 2018; *The velocity anisotropy of the Milky Way satellite system* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv181010645R) </span> 
 
 1. **Andrew B. Pace**, Ting S. Li, 2018; *Proper motions of Milky Way Ultra-Faint satellites with Gaia DR2 x DES DR1* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180602345P) </span> 
