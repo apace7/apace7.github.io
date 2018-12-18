@@ -34,6 +34,12 @@ Refereed Journal Publications
 
 Submitted
 ------
+1. S. Mau et al. including **Andrew B. Pace** 2018; *A faint halo star cluster discovered in the Blanco Imaging of the Southern Sky Survey*
+
+1. Coral Wheeler, Philip F. Hopkins, **Andrew B. Pace** et al., 2018; *Be it therefore resolved: Cosmological Simulations of Dwarf Galaxies with Extreme Resolution* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv181202749W) </span> 
+
+1. J. L. Marshall et al. including **Andrew B. Pace** 2018; *Chemical Abundance Analysis of Tucana III, the Second $r$-process Enhanced Ultra-Faint Dwarf Galaxy* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv181201022M) </span> 
+
 1. Quinn E. Minor, **Andrew B. Pace**, Jennifer L. Marshall, Louis E. Strigari, 2018; *Robust velocity dispersion and binary population modeling of the ultra-faint dwarf galaxy Reticulum II* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv181012903M) </span> 
 
 1. Alexander H. Riley, Azadeh Fattahi,  **Andrew B. Pace** et al. 2018; *The velocity anisotropy of the Milky Way satellite system* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv181010645R) </span> 
