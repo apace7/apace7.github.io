@@ -34,7 +34,11 @@ Refereed Journal Publications
 
 Submitted
 ------
-1. S. Mau et al. including **Andrew B. Pace** 2018; *A faint halo star cluster discovered in the Blanco Imaging of the Southern Sky Survey*
+1. A. Pieres, et al. including **Andrew B. Pace** 2019; *Modelling the Milky Way. I - Method and first results fitting the thick disk and halo with DES-Y3 data* <span style="color:blue"> [ADS](https://ui.adsabs.harvard.edu/abs/2019arXiv190404350P/abstract) </span> 
+
+1. M.-Y. Wang et al. including **Andrew B. Pace** 2019; APJL accepted *Rediscovery of the Sixth Star Cluster in the Fornax Dwarf Spheroidal Galaxy* ApJL<span style="color:blue"> [ADS](https://ui.adsabs.harvard.edu/abs/2019arXiv190404350P/abstract) </span> 
+
+1. S. Mau et al. including **Andrew B. Pace** 2018; *A faint halo star cluster discovered in the Blanco Imaging of the Southern Sky Survey* <span style="color:blue"> [ADS](https://ui.adsabs.harvard.edu/abs/2018arXiv181206318M/abstract) </span> 
 
 1. Coral Wheeler, Philip F. Hopkins, **Andrew B. Pace** et al., 2018; *Be it therefore resolved: Cosmological Simulations of Dwarf Galaxies with Extreme Resolution* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv181202749W) </span> 
 
@@ -44,13 +48,16 @@ Submitted
 
 1. Alexander H. Riley, Azadeh Fattahi,  **Andrew B. Pace** et al. 2018; *The velocity anisotropy of the Milky Way satellite system* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv181010645R) </span> 
 
-1. **Andrew B. Pace**, Ting S. Li, 2018; *Proper motions of Milky Way Ultra-Faint satellites with Gaia DR2 x DES DR1* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180602345P) </span> 
+1. **Andrew B. Pace**, Ting S. Li, 2018; APJ accepted *Proper motions of Milky Way Ultra-Faint satellites with Gaia DR2 x DES DR1* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180602345P) </span> 
 
 1. DES Collaboration including **Andrew B. Pace** 2018; *The Dark Energy Survey Data Release 1* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180103181A) </span> 
 
-1. M-Y Wang et al. including **Andrew B. Pace** 2018; *The morphology and structure of stellar populations in the Fornax dwarf spheroidal galaxy from Dark Energy Survey Data* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180907801W) </span>
+1. M.-Y. Wang et al. including **Andrew B. Pace** 2018; *The morphology and structure of stellar populations in the Fornax dwarf spheroidal galaxy from Dark Energy Survey Data* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180907801W) </span>
 
 1. **Andrew B. Pace** 2016; *Comparing rotation curve observations to hydrodynamic {\Lambda}CDM simulations of galaxies* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2016arXiv160505326P) </span> 
+
+White Papers
+------
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
