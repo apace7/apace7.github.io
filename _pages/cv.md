@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-contact: apace [at] tamu.edu
+contact: apace [at] andrew.cmu.edu
 
 Education
 ======
