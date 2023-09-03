@@ -8,6 +8,8 @@ author_profile: true
 Refereed Journal Publications
 ------
 
+<span style="color:blue"> [Link to ADS library of my publications](https://ui.adsabs.harvard.edu/public-libraries/hJ77Di5nQ0qwHYNpG0yRpA) </span> 
+
 1. **Andrew B. Pace**, Louis E. Strigari, 2018, MNRAS accepted; *Scaling Relations for Dark Matter Annihilation and Decay Profiles in Dwarf Spheroidal Galaxies* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018arXiv180206811P) </span> 
 
 1. T.S. Li et al. including **Andrew B. Pace** 2018, APJ, 866, 22; *The First Tidally Disrupted Ultra-Faint Dwarf Galaxy? - Spectroscopic Analysis of the Tucana III Stream* <span style="color:blue"> [ADS](http://adsabs.harvard.edu/abs/2018ApJ...866...22L) </span>
