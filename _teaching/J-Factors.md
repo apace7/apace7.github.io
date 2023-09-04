@@ -10,12 +10,9 @@ Dark Matter indirect detection.  J-Factors.
 J-Factor Scaling Relations
 ======
 
-http://adsabs.harvard.edu/abs/2018arXiv180206811P
+[link to paper](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.3480P/abstract)https://ui.adsabs.harvard.edu/abs/2019MNRAS.482.3480P/abstract
 
-https://github.com/apace7/J-Factor-Scaling
+[link to github with chains](https://github.com/apace7/J-Factor-Scaling)https://github.com/apace7/J-Factor-Scaling
 
-Heading 2
-======
+summary of J-factors is now included in the [local volume database](https://github.com/apace7/local_volume_database)https://github.com/apace7/local_volume_database package 
 
-Heading 3
-======
