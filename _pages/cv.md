@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-contact: apace [at] andrew.cmu.edu
+contact: apace [at] virginia.edu
 
 Education
 ======
@@ -19,8 +19,13 @@ Education
 
 Work experience
 ======
-* Mitchell Astronomy Fellow (2018 - Present)
-* Postdoctoral Research Associate (2016 - Present)
+* Galaxy Evolution and Cosmology fellow (2024-)
+* Postdoctoral Research Associate (2024 - present)
+  * University of Virginia
+* Postdoctoral Research Associate (2019 - 2024)
+  * Carnegie Mellon University 
+* Mitchell Astronomy Fellow (2018 - 2019)
+* Postdoctoral Research Associate (2016 - 2019)
   * Texas A&M University
 * Graduate Research Assistant (2011-2016)
   * University of California-Irvine
@@ -31,43 +36,6 @@ Work experience
 
 Publications
 ======
-<span style="color:blue"> [see publications page](https://apace7.github.io/publications/) </span>
+<span style="color:blue"> [Link to ADS library of my publications](https://ui.adsabs.harvard.edu/public-libraries/hJ77Di5nQ0qwHYNpG0yRpA) </span>
 
-Talks
-======
-<span style="color:blue"> [see talks page](https://apace7.github.io/talks/) </span>
 
-Service and leadership
-======
-* DES ECS rep (2018 - Present)
-  * Early career scientist representative for the Dark Energy Survey Collaboration
-* Journal Referee
-  * Monthly Notices of the Royal Astronomical Society
-* co-organizer for the TAMU Astrophysics Seminars (Fall 2017 - Present)
-* Local organizing committee
-  * Dark Energy Survey Collaboration meeting, College Station, TX, May 2018
-* Associated Graduate Students (UCI, 2015-2016)
-  * Council member, internal committee, and symposium committee
-* Physics Graduate Caucus Representative (UCI, 2012-2016)
-  * physics graduate student advocacy organization
-  
-Outreach
-======
-* UCI Observatory (2011-2012)
-  * Assisted with public visitor nights
-* COSMOS (2014-2015)
-  * Science summer school for high school students
-* Astronomy on Tap Bryan/College Station (2018-)
-  * Assist with organizing, gave talk August 2018
-
-Awards
-======
-* GAANN Fellowship (2015–2016)
-* AGS Travel Grant (Spring 2015)
-* Mitchell Astronomy Fellow (2018 - present)
-
-Students Mentored
-======
-* Graduate students (at Texas A&M): Dan Nagasawa, Peter Chi, Katelyn Stringer, Sarah Cantu, Peter Ferguson, Alex Riley, Yuewen (Claire) Qi
-* Undergraduate students (at Texas A&M): Liam Plybon, John Maner, Jenny Quinn
-* REU students (at Texas A&M): Craig Pellegrino, Niyousha Davachi, Jessica Myron, Kelsey Glazer, Silvana Delgado 
