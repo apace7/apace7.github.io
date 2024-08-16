@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+i# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Andrew B. Pace"
   avatar           : "profile_cutout.png"
-  bio              : "Postdoc at Carnegie Mellon University. Astronomy, astrophysics."
+  bio              : "Postdoctoral research associate and Galaxy Evolution and Cosmology fellow at the University of Virginia"
   location         : 
   employer         :
   googlescholar    : 
